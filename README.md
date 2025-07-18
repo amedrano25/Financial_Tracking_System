@@ -8,6 +8,9 @@ A Python-based system that automates payroll and expense tracking, detects anoma
 - Outputs an Excel report with charts (generated using xlsxwriter)
 - Modular codebase for easy customization
 
+## 🚀 Live Demo (when deployed)
+👉 [Try the App](https://amedrano25-financial-tracking-system-app-jto5tz.streamlit.app/)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
